@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Portfolio website**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 currently learning **Javascript**
 
-- 📫 How to reach me **Vineetpandey026@gmail.com**
+- 📫 Reach me **Vineetpandey026@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
